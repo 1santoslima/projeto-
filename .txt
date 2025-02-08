@@ -1,0 +1,7 @@
+
+atalhos figma
+espaço + mouse = movimentar
+ctrl + mouse = olhar espaçamentos(padding e margin)
+AVANÇANDO O CSS
+
+
