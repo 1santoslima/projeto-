@@ -30,7 +30,7 @@ body{
     */
     background: var(--bg-url) no-repeat top center/cover;
 }
-body *{
+body * {
     font-family: "Inter", serif;
     color: #ffffff;
     color: var(--text-color);
