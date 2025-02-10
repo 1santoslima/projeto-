@@ -1,4 +1,4 @@
-*{
+*{ /*estrutura*/
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -24,6 +24,7 @@
 body{
 
     background: var(--bg-url) no-repeat top center/cover;
+    height: 100vh;
 }
 body * {
     font-family: "Inter", serif;
@@ -154,4 +155,15 @@ footer{
     text-align: center;
     padding:24px 0;
     font-size: 14px;
+}
+/*media querry */ /*estrutura*/
+@media (min-width: 700px){
+    :root{
+        --bg-url: url(./assets/bg-desktop.jpg);
+
+    }
+
+    .light{
+        --bg-url: url(./assets/bg-desktop-light.jpg);
+    }
 }
