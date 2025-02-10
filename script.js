@@ -21,5 +21,5 @@ if(html.classList.contains("light","img")) {
 
 
 
-// substituir a imagem
+
 
